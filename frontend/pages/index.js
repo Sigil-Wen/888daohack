@@ -12,9 +12,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+      <h5 className="text-9xl">
+          Join the Web3 Chinese Diaspora.
+        </h5>
+        <h className="text-9xl">
+          Claim your <a href="https://nextjs.org" style={{color:'yellow'}}>Membership NFT</a>
+        </h2>
 
         <p className={styles.description}>
           Get started by editing{' '}
