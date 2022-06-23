@@ -28,8 +28,8 @@ User profile :
 `
 {
 	"name": "闻思齐",
-	"date":"2003-08-21,
+	"date":"2003-09-25,
 	"address": "0xCb0D4edc8461beA356Be8C5BA05052529853c622"
-	"email": "wensigil@gmail.com" 
+	"email": "wens@gmail.com" 
 }
 `
