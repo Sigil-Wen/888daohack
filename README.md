@@ -24,6 +24,9 @@ Good morning :)
 
 # Backend
 
+- [ x ] Completed /metadata/:id route for fetching NFT metadata
+- [ ] Need to now figure out where we can host images / assets :) 
+
 User profile :
 `
 {
