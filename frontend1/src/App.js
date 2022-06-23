@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 
 import { Magic } from 'magic-sdk';
 import { ethers } from 'ethers';
+import {axios} from 'axios';
 const magic = new Magic(process.env.MAGIC_LINK_KEY);
 
 
@@ -19,6 +20,9 @@ function App() {
     const address = await signer.getAddress();
     console.log(address)
     //todo: add functionality here to add address to db
+    axios.post('https://backend888.herokuapp.com/record/add', {
+      address: address
+    });
     return address;
   }
 

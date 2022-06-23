@@ -12,10 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h5 className="text-9xl">
+      <h5 className={styles.main}>
           Join the Web3 Chinese Diaspora.
         </h5>
-        <h className="text-9xl">
+        <h2 className={styles.main}>
           Claim your <a href="https://nextjs.org" style={{color:'yellow'}}>Membership NFT</a>
         </h2>
 
