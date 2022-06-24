@@ -8,7 +8,7 @@ Good morning :)
 ### High Level 
 - [ ] magic link integration - @realmichaelye
 - [ ] UI/UX pages - @molly
-- [ ] Designs - @ericzhu
+- [ ] Designs/Presentation - @ericzhu
 - [ ] Backend - @sigil wen
 
 # Frontend: 
